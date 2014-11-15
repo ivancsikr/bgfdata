@@ -1,0 +1,6 @@
+FirstName   LastName    Address           City        State       Country     PostalCode
+----------  ----------  ----------------  ----------  ----------  ----------  ----------
+Daan        Peeters     Grétrystraat 63  Brussels                Belgium     1000      
+João       Fernandes   Rua da Assunçã  Lisbon                  Portugal              
+Madalena    Sampaio     Rua dos Campeõe  Porto                   Portugal              
+Ladislav    Kovács     Erzsébet krt. 5  Budapest                Hungary     H-1073    
