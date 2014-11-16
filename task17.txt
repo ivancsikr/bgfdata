@@ -1,0 +1,8 @@
+FirstName   LastName    BillingCity
+----------  ----------  -----------
+Hannah      Schneider   Berlin     
+Emma        Jones       London     
+Dan         Miller      Mountain Vi
+Camille     Bernard     Paris      
+Helena      Holý       Prague     
+Eduardo     Martins     São Paulo 
