@@ -1,0 +1,102 @@
+TrackId          AlbumId       Composer                                                                   
+---------------  ------------  ---------------------------------------------------------------------------
+2                2                                                                                        
+76               8                                                                                        
+143              14                                                                                       
+148              15                                                                                       
+155              16                                                                                       
+182              18                                                                                       
+225              22                                                                                       
+528              23                                                                                       
+281              25                                                                                       
+322              28                                                                                       
+373              32                                                                                       
+467              38                                                                                       
+513              41                                                                                       
+596              47                                                                                       
+645              51                                                                                       
+660              52                                                                                       
+674              53                                                                                       
+729              56                                                                                       
+744              57                                                                                       
+841              67                                                                                       
+863              69                                                                                       
+890              71                                                                                       
+948              75                                                                                       
+988              78                                                                                       
+1072             84                                                                                       
+1074             85                                                                                       
+1101             86                                                                                       
+1104             87                                                                                       
+1157             90                                                                                       
+1173             91                                                                                       
+1211             94                                                                                       
+1301             102                                                                                      
+1314             103                                                                                      
+1324             104                                                                                      
+1352             108                                                                                      
+1502             121                                                                                      
+1519             122                                                                                      
+1531             123                                                                                      
+1561             125                                                                                      
+2228             141                                                                                      
+1743             142                                                                                      
+1744             143                                                                                      
+1774             146                                                                                      
+1800             147                                                                                      
+2029             165                                                                                      
+2043             166                                                                                      
+2092             169                                                                                      
+2253             184                                                                                      
+2357             192                                                                                      
+2433             198                                                                                      
+2638             213                                                                                      
+2780             223                                                                                      
+2819             226                                                                                      
+2838             227                                                                                      
+3223             228                                                                                      
+3252             229                                                                                      
+2925             230                                                                                      
+2924             231                                                                                      
+3051             241                                                                                      
+3131             247                                                                                      
+3177             249                                                                                      
+3199             250                                                                                      
+3429             251                                                                                      
+3249             253                                                                                      
+3250             254                                                                                      
+3275             255                                                                                      
+3287             256                                                                                      
+3299             257                                                                                      
+3335             259                                                                                      
+3336             260                                                                                      
+3364             261                                                                                      
+3374             269                                                                                      
+3402             271                                                                                      
+3444             310                                                                                      
+3452             318                                                                                      
+3466             321                                                                                      
+3470             322                                                                                      
+3478             323                                                                                      
+3481             326                                                                                      
+3496             340                                                                                      
+3497             341                                                                                      
+3499             343                                                                                      
+2109             174           A. F. Iommi, W. Ward, T. Butler, J. Osbourne                               
+1908             157           A. Jamal                                                                   
+415              35            A.Bouchard/J.Bouchard/S.Pearlman                                           
+2589             210           A.Isbell/A.Jones/O.Redding                                                 
+22               4             AC/DC                                                                      
+3427             296           Aaron Copland                                                              
+3357             267           Aaron Goldberg                                                             
+453              37            Ace Frehley                                                                
+3159             248           Acyi Marques/Arlindo Bruz/Braço, Beto Sem/Zeca Pagodinho                  
+3158             248           Acyr Marques/Arlindo Cruz/Franco                                           
+567              45            Adalto Magalha/Lourenco                                                    
+2974             235           Adam Clayton, Bono, Larry Mullen & The Edge                                
+2948             233           Adam Clayton, Bono, Larry Mullen, The Edge                                 
+1424             115           Addie William Jones/Nat Jones                                              
+191              19            Adrian Smith                                                               
+1383             111           Adrian Smith                                                               
+1221             95            Adrian Smith/Bruce Dickinson                                               
+1319             104           Adrian Smith/Bruce Dickinson                                               
