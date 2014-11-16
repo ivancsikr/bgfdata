@@ -1,0 +1,5 @@
+CustomerId  FirstName   LastName    SupportRepId  FirstName   LastName  
+----------  ----------  ----------  ------------  ----------  ----------
+1           Luís       Gonçalves  3             Jane        Peacock   
+3           François   Tremblay    3             Jane        Peacock   
+12          Roberto     Almeida     3             Jane        Peacock   
