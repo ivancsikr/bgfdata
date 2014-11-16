@@ -1,0 +1,3 @@
+MAX(milliseconds)  (SELECT ALB.Title FROM Album AS ALB JOIN Track AS TRA ON ALB.AlbumID=TRA.AlbumID)
+-----------------  ---------------------------------------------------------------------------------
+5286953            For Those About To Rock We Salute You                                            
