@@ -1,0 +1,192 @@
+Name                                                Milliseconds                                        Name                                                BillingCountry
+--------------------------------------------------  --------------------------------------------------  --------------------------------------------------  --------------
+O Pulso                                             199131                                              MPEG audio file                                     Hungary       
+O Pulso                                             199131                                              Protected AAC audio file                            Hungary       
+O Pulso                                             199131                                              Protected MPEG-4 video file                         Hungary       
+O Pulso                                             199131                                              Purchased AAC audio file                            Hungary       
+O Pulso                                             199131                                              AAC audio file                                      Hungary       
+Nem 5 Minutos Guardados                             245995                                              MPEG audio file                                     Hungary       
+Nem 5 Minutos Guardados                             245995                                              Protected AAC audio file                            Hungary       
+Nem 5 Minutos Guardados                             245995                                              Protected MPEG-4 video file                         Hungary       
+Nem 5 Minutos Guardados                             245995                                              Purchased AAC audio file                            Hungary       
+Nem 5 Minutos Guardados                             245995                                              AAC audio file                                      Hungary       
+Dirty Little Thing                                  237844                                              MPEG audio file                                     Hungary       
+Dirty Little Thing                                  237844                                              Protected AAC audio file                            Hungary       
+Dirty Little Thing                                  237844                                              Protected MPEG-4 video file                         Hungary       
+Dirty Little Thing                                  237844                                              Purchased AAC audio file                            Hungary       
+Dirty Little Thing                                  237844                                              AAC audio file                                      Hungary       
+So Por Amor                                         236591                                              MPEG audio file                                     Hungary       
+So Por Amor                                         236591                                              Protected AAC audio file                            Hungary       
+So Por Amor                                         236591                                              Protected MPEG-4 video file                         Hungary       
+So Por Amor                                         236591                                              Purchased AAC audio file                            Hungary       
+So Por Amor                                         236591                                              AAC audio file                                      Hungary       
+Here I Go Again                                     233874                                              MPEG audio file                                     Hungary       
+Here I Go Again                                     233874                                              Protected AAC audio file                            Hungary       
+Here I Go Again                                     233874                                              Protected MPEG-4 video file                         Hungary       
+Here I Go Again                                     233874                                              Purchased AAC audio file                            Hungary       
+Here I Go Again                                     233874                                              AAC audio file                                      Hungary       
+The Deeper The Love                                 262791                                              MPEG audio file                                     Hungary       
+The Deeper The Love                                 262791                                              Protected AAC audio file                            Hungary       
+The Deeper The Love                                 262791                                              Protected MPEG-4 video file                         Hungary       
+The Deeper The Love                                 262791                                              Purchased AAC audio file                            Hungary       
+The Deeper The Love                                 262791                                              AAC audio file                                      Hungary       
+Seu Balancê                                        219454                                              MPEG audio file                                     Hungary       
+Seu Balancê                                        219454                                              Protected AAC audio file                            Hungary       
+Seu Balancê                                        219454                                              Protected MPEG-4 video file                         Hungary       
+Seu Balancê                                        219454                                              Purchased AAC audio file                            Hungary       
+Seu Balancê                                        219454                                              AAC audio file                                      Hungary       
+Sapopemba e Maxambomba                              245394                                              MPEG audio file                                     Hungary       
+Sapopemba e Maxambomba                              245394                                              Protected AAC audio file                            Hungary       
+Sapopemba e Maxambomba                              245394                                              Protected MPEG-4 video file                         Hungary       
+Sapopemba e Maxambomba                              245394                                              Purchased AAC audio file                            Hungary       
+Sapopemba e Maxambomba                              245394                                              AAC audio file                                      Hungary       
+The Man Behind the Curtain                          2615990                                             MPEG audio file                                     Hungary       
+The Man Behind the Curtain                          2615990                                             Protected AAC audio file                            Hungary       
+The Man Behind the Curtain                          2615990                                             Protected MPEG-4 video file                         Hungary       
+The Man Behind the Curtain                          2615990                                             Purchased AAC audio file                            Hungary       
+The Man Behind the Curtain                          2615990                                             AAC audio file                                      Hungary       
+The Dundies                                         1253541                                             MPEG audio file                                     Hungary       
+The Dundies                                         1253541                                             Protected AAC audio file                            Hungary       
+The Dundies                                         1253541                                             Protected MPEG-4 video file                         Hungary       
+The Dundies                                         1253541                                             Purchased AAC audio file                            Hungary       
+The Dundies                                         1253541                                             AAC audio file                                      Hungary       
+Christmas Party                                     1282115                                             MPEG audio file                                     Hungary       
+Christmas Party                                     1282115                                             Protected AAC audio file                            Hungary       
+Christmas Party                                     1282115                                             Protected MPEG-4 video file                         Hungary       
+Christmas Party                                     1282115                                             Purchased AAC audio file                            Hungary       
+Christmas Party                                     1282115                                             AAC audio file                                      Hungary       
+Michael's Birthday                                  1237791                                             MPEG audio file                                     Hungary       
+Michael's Birthday                                  1237791                                             Protected AAC audio file                            Hungary       
+Michael's Birthday                                  1237791                                             Protected MPEG-4 video file                         Hungary       
+Michael's Birthday                                  1237791                                             Purchased AAC audio file                            Hungary       
+Michael's Birthday                                  1237791                                             AAC audio file                                      Hungary       
+Diwali                                              1279904                                             MPEG audio file                                     Hungary       
+Diwali                                              1279904                                             Protected AAC audio file                            Hungary       
+Diwali                                              1279904                                             Protected MPEG-4 video file                         Hungary       
+Diwali                                              1279904                                             Purchased AAC audio file                            Hungary       
+Diwali                                              1279904                                             AAC audio file                                      Hungary       
+Phyllis's Wedding                                   1271521                                             MPEG audio file                                     Hungary       
+Phyllis's Wedding                                   1271521                                             Protected AAC audio file                            Hungary       
+Phyllis's Wedding                                   1271521                                             Protected MPEG-4 video file                         Hungary       
+Phyllis's Wedding                                   1271521                                             Purchased AAC audio file                            Hungary       
+Phyllis's Wedding                                   1271521                                             AAC audio file                                      Hungary       
+How to Stop an Exploding Man                        2687103                                             MPEG audio file                                     Hungary       
+How to Stop an Exploding Man                        2687103                                             Protected AAC audio file                            Hungary       
+How to Stop an Exploding Man                        2687103                                             Protected MPEG-4 video file                         Hungary       
+How to Stop an Exploding Man                        2687103                                             Purchased AAC audio file                            Hungary       
+How to Stop an Exploding Man                        2687103                                             AAC audio file                                      Hungary       
+The Long Patrol                                     2925008                                             MPEG audio file                                     Hungary       
+The Long Patrol                                     2925008                                             Protected AAC audio file                            Hungary       
+The Long Patrol                                     2925008                                             Protected MPEG-4 video file                         Hungary       
+The Long Patrol                                     2925008                                             Purchased AAC audio file                            Hungary       
+The Long Patrol                                     2925008                                             AAC audio file                                      Hungary       
+The Educated Fool                                   404767                                              MPEG audio file                                     Hungary       
+The Educated Fool                                   404767                                              Protected AAC audio file                            Hungary       
+The Educated Fool                                   404767                                              Protected MPEG-4 video file                         Hungary       
+The Educated Fool                                   404767                                              Purchased AAC audio file                            Hungary       
+The Educated Fool                                   404767                                              AAC audio file                                      Hungary       
+Out Of Sight                                        143725                                              MPEG audio file                                     Hungary       
+Out Of Sight                                        143725                                              Protected AAC audio file                            Hungary       
+Out Of Sight                                        143725                                              Protected MPEG-4 video file                         Hungary       
+Out Of Sight                                        143725                                              Purchased AAC audio file                            Hungary       
+Out Of Sight                                        143725                                              AAC audio file                                      Hungary       
+Get Up (I Feel Like Being A) Sex Machine            316551                                              MPEG audio file                                     Hungary       
+Get Up (I Feel Like Being A) Sex Machine            316551                                              Protected AAC audio file                            Hungary       
+Get Up (I Feel Like Being A) Sex Machine            316551                                              Protected MPEG-4 video file                         Hungary       
+Get Up (I Feel Like Being A) Sex Machine            316551                                              Purchased AAC audio file                            Hungary       
+Get Up (I Feel Like Being A) Sex Machine            316551                                              AAC audio file                                      Hungary       
+It's Too Funky In Here                              239072                                              MPEG audio file                                     Hungary       
+It's Too Funky In Here                              239072                                              Protected AAC audio file                            Hungary       
+It's Too Funky In Here                              239072                                              Protected MPEG-4 video file                         Hungary       
+It's Too Funky In Here                              239072                                              Purchased AAC audio file                            Hungary       
+It's Too Funky In Here                              239072                                              AAC audio file                                      Hungary       
+Too Young To Die                                    365818                                              MPEG audio file                                     Hungary       
+Too Young To Die                                    365818                                              Protected AAC audio file                            Hungary       
+Too Young To Die                                    365818                                              Protected MPEG-4 video file                         Hungary       
+Too Young To Die                                    365818                                              Purchased AAC audio file                            Hungary       
+Too Young To Die                                    365818                                              AAC audio file                                      Hungary       
+Blow Your Mind                                      512339                                              MPEG audio file                                     Hungary       
+Blow Your Mind                                      512339                                              Protected AAC audio file                            Hungary       
+Blow Your Mind                                      512339                                              Protected MPEG-4 video file                         Hungary       
+Blow Your Mind                                      512339                                              Purchased AAC audio file                            Hungary       
+Blow Your Mind                                      512339                                              AAC audio file                                      Hungary       
+Soul Education                                      255477                                              MPEG audio file                                     Hungary       
+Soul Education                                      255477                                              Protected AAC audio file                            Hungary       
+Soul Education                                      255477                                              Protected MPEG-4 video file                         Hungary       
+Soul Education                                      255477                                              Purchased AAC audio file                            Hungary       
+Soul Education                                      255477                                              AAC audio file                                      Hungary       
+King For A Day                                      221544                                              MPEG audio file                                     Hungary       
+King For A Day                                      221544                                              Protected AAC audio file                            Hungary       
+King For A Day                                      221544                                              Protected MPEG-4 video file                         Hungary       
+King For A Day                                      221544                                              Purchased AAC audio file                            Hungary       
+King For A Day                                      221544                                              AAC audio file                                      Hungary       
+Manifest Destiny                                    382197                                              MPEG audio file                                     Hungary       
+Manifest Destiny                                    382197                                              Protected AAC audio file                            Hungary       
+Manifest Destiny                                    382197                                              Protected MPEG-4 video file                         Hungary       
+Manifest Destiny                                    382197                                              Purchased AAC audio file                            Hungary       
+Manifest Destiny                                    382197                                              AAC audio file                                      Hungary       
+Sheer Heart Attack                                  207386                                              MPEG audio file                                     Hungary       
+Sheer Heart Attack                                  207386                                              Protected AAC audio file                            Hungary       
+Sheer Heart Attack                                  207386                                              Protected MPEG-4 video file                         Hungary       
+Sheer Heart Attack                                  207386                                              Purchased AAC audio file                            Hungary       
+Sheer Heart Attack                                  207386                                              AAC audio file                                      Hungary       
+All Dead, All Dead                                  190119                                              MPEG audio file                                     Hungary       
+All Dead, All Dead                                  190119                                              Protected AAC audio file                            Hungary       
+All Dead, All Dead                                  190119                                              Protected MPEG-4 video file                         Hungary       
+All Dead, All Dead                                  190119                                              Purchased AAC audio file                            Hungary       
+All Dead, All Dead                                  190119                                              AAC audio file                                      Hungary       
+Do You Feel Loved                                   307539                                              MPEG audio file                                     Hungary       
+Do You Feel Loved                                   307539                                              Protected AAC audio file                            Hungary       
+Do You Feel Loved                                   307539                                              Protected MPEG-4 video file                         Hungary       
+Do You Feel Loved                                   307539                                              Purchased AAC audio file                            Hungary       
+Do You Feel Loved                                   307539                                              AAC audio file                                      Hungary       
+If God Will Send His Angels                         322533                                              MPEG audio file                                     Hungary       
+If God Will Send His Angels                         322533                                              Protected AAC audio file                            Hungary       
+If God Will Send His Angels                         322533                                              Protected MPEG-4 video file                         Hungary       
+If God Will Send His Angels                         322533                                              Purchased AAC audio file                            Hungary       
+If God Will Send His Angels                         322533                                              AAC audio file                                      Hungary       
+Last Night On Earth                                 285753                                              MPEG audio file                                     Hungary       
+Last Night On Earth                                 285753                                              Protected AAC audio file                            Hungary       
+Last Night On Earth                                 285753                                              Protected MPEG-4 video file                         Hungary       
+Last Night On Earth                                 285753                                              Purchased AAC audio file                            Hungary       
+Last Night On Earth                                 285753                                              AAC audio file                                      Hungary       
+Miami                                               293041                                              MPEG audio file                                     Hungary       
+Miami                                               293041                                              Protected AAC audio file                            Hungary       
+Miami                                               293041                                              Protected MPEG-4 video file                         Hungary       
+Miami                                               293041                                              Purchased AAC audio file                            Hungary       
+Miami                                               293041                                              AAC audio file                                      Hungary       
+Evil Dick                                           239020                                              MPEG audio file                                     Hungary       
+Evil Dick                                           239020                                              Protected AAC audio file                            Hungary       
+Evil Dick                                           239020                                              Protected MPEG-4 video file                         Hungary       
+Evil Dick                                           239020                                              Purchased AAC audio file                            Hungary       
+Evil Dick                                           239020                                              AAC audio file                                      Hungary       
+King In Crimson                                     283167                                              MPEG audio file                                     Hungary       
+King In Crimson                                     283167                                              Protected AAC audio file                            Hungary       
+King In Crimson                                     283167                                              Protected MPEG-4 video file                         Hungary       
+King In Crimson                                     283167                                              Purchased AAC audio file                            Hungary       
+King In Crimson                                     283167                                              AAC audio file                                      Hungary       
+Book Of Thel                                        494393                                              MPEG audio file                                     Hungary       
+Book Of Thel                                        494393                                              Protected AAC audio file                            Hungary       
+Book Of Thel                                        494393                                              Protected MPEG-4 video file                         Hungary       
+Book Of Thel                                        494393                                              Purchased AAC audio file                            Hungary       
+Book Of Thel                                        494393                                              AAC audio file                                      Hungary       
+Machine Men                                         341655                                              MPEG audio file                                     Hungary       
+Machine Men                                         341655                                              Protected AAC audio file                            Hungary       
+Machine Men                                         341655                                              Protected MPEG-4 video file                         Hungary       
+Machine Men                                         341655                                              Purchased AAC audio file                            Hungary       
+Machine Men                                         341655                                              AAC audio file                                      Hungary       
+Let Me Love You Baby                                175386                                              MPEG audio file                                     Hungary       
+Let Me Love You Baby                                175386                                              Protected AAC audio file                            Hungary       
+Let Me Love You Baby                                175386                                              Protected MPEG-4 video file                         Hungary       
+Let Me Love You Baby                                175386                                              Purchased AAC audio file                            Hungary       
+Let Me Love You Baby                                175386                                              AAC audio file                                      Hungary       
+Leave My Girl Alone                                 204721                                              MPEG audio file                                     Hungary       
+Leave My Girl Alone                                 204721                                              Protected AAC audio file                            Hungary       
+Leave My Girl Alone                                 204721                                              Protected MPEG-4 video file                         Hungary       
+Leave My Girl Alone                                 204721                                              Purchased AAC audio file                            Hungary       
+Leave My Girl Alone                                 204721                                              AAC audio file                                      Hungary       
+Sangue Latino                                       223033                                              MPEG audio file                                     Hungary       
+Sangue Latino                                       223033                                              Protected AAC audio file                            Hungary       
+Sangue Latino                                       223033                                              Protected MPEG-4 video file                         Hungary       
+Sangue Latino                                       223033                                              Purchased AAC audio file                            Hungary       
+Sangue Latino                                       223033                                              AAC audio file                                      Hungary       
